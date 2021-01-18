@@ -1,0 +1,20 @@
+{
+    "blogs" : [
+        {
+            "firstname": "John",
+            "lastname": "wick",
+            "email": "john12323@gmail.com",
+            "phone": "03021654545",
+            "plan": "Nill",
+            "smsalerts": "false"
+        },
+        {
+            "firstname": "John",
+            "lastname": "wick",
+            "email": "john12323@gmail.com",
+            "phone": "03021654545",
+            "plan": "Nill",
+            "smsalerts": "false"
+        },
+    ]
+}
